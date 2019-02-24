@@ -1,0 +1,22 @@
+{
+  "name": "rest_api_demo_1",
+  "version": "1.0.0",
+  "description": "Simple REST API demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sujoydatta26/Simple_REST_API_demo.git"
+  },
+  "author": "Sujoy Datta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sujoydatta26/Simple_REST_API_demo/issues"
+  },
+  "homepage": "https://github.com/Sujoydatta26/Simple_REST_API_demo#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
